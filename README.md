@@ -29,10 +29,10 @@ Describe the mission and scope—e.g., manage donations, user roles, transparenc
 - Mobile-responsive UI, internationalization, etc.
 
 ## Tech Stack
-- **Frontend**: e.g., React, Vue.js, or Next.js
-- **Backend**: e.g., Node.js with Express, Django, etc.
+- **Frontend**: e.g., React,and,Next.js
+- **Backend**: e.g., Node.js with Express,, etc.
 - **Database**: e.g., MongoDB, PostgreSQL
-- **Others**: e.g., JWT authentication, Stripe/Razorpay integration
+- **Others**: e.g., JWT authentication, Stripe/Razorpay(will be integrated soon)
 
 ## Getting Started
 
